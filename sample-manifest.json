@@ -1,0 +1,12 @@
+{
+  "export_job_id": "852f4007-bd4f-4845-939b-4f10b2d93651",
+  "id_short": 118471,
+  "published_at": "2026-04-11T07:27:35Z",
+  "repo_name": "all-restaurants-in-san-leandro-california-us-sample-118471",
+  "sample_asset_name": "beamstation_118471_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/118471/beamstation_118471_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 22,
+  "sample_sha256": "546420e37520597e97ec56a38284b9df55b354d66a82ae6d94d4f865b978dbe8",
+  "sample_size_bytes": 100474,
+  "total_records": 226
+}
