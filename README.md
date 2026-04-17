@@ -1,6 +1,6 @@
 # All Restaurants in San Leandro, California, US
 
-> Free BeamStation sample export with 22 rows and masked direct-contact fields.
+> Free BeamStation sample export with 26 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `118471` |
 | Location | San Leandro |
 | Category | Restaurants |
-| Full dataset size | 226 records |
-| Free sample size | 22 records (9.73%) |
-| Last export | 2026-03-31T17:02:14.995415+00:00 |
+| Full dataset size | 268 records |
+| Free sample size | 26 records (9.7%) |
+| Last export | 2026-04-14T17:53:14.747946+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-leandro-california-us-sample-118471/releases/download/sample-latest/beamstation_118471_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
